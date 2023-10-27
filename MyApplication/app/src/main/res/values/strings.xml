@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tomato Disease clf</string>
+    <string name="take_picture">Camera</string>
+    <string name="todo">TODO</string>
+</resources>
